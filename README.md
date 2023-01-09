@@ -3,10 +3,20 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=5100&pause=1000&color=C7C3D2&background=22AA4400&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&width=720&height=100&lines=Hello%2C+welcome+to+my+GitHub.+My+name+is+Lucas!" alt="Typing SVG" /></a>
 </div>
 
+<br>
+<br>
 <div align="center">
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MrLucasapl&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/> 
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrLucasapl&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
+<br>
+<br>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MrLucasapl&theme=nord&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p> 
+<br>
+<br>
 
 <div align="center">
 <h1 align="center">Main skills</h1>
@@ -17,6 +27,8 @@
 <img align="center" height="30" width="40" alt="typescript-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
+<br>
+<br>
 
 <div align="center">
 <br>
