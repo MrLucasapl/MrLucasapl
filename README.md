@@ -1,7 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2a4e8a&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Lucas+Pereira;I'm+23+years+old;I+am+from+Porto Alegre,+RS;I+study+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
- 
+
+![Contribution](https://activity-graph.herokuapp.com/graph?username=MatheusAlvarez&theme=gotham&hide_border=true&area=true)
+
 ### Main skills:
 <div>
 <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
