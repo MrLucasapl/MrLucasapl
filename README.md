@@ -30,7 +30,7 @@
 <br>
 <br>
 
-![Snake animation](https://github.com/MrLucasapl/MrLucasapl/blob/output/github-contribution-grid-snake.svg)
+[![generate animation](https://github.com/MrLucasapl/MrLucasapl/actions/workflows/main.yml/badge.svg)](https://github.com/MrLucasapl/MrLucasapl/actions/workflows/main.yml)
 
 <div align="center">
 <br>
