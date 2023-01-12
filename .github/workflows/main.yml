@@ -18,7 +18,6 @@ jobs:
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
-      - nome: Páginas do GitHub
         with:
           target_branch: output
           build_dir: dist
