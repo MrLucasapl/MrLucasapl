@@ -17,9 +17,6 @@
   <a href="https://www.linkedin.com/in/mrlucasapl">
     <img src="https://img.shields.io/badge/LinkedIn-mrlucasapl-00bfbf?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:lucas.apereira20@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-lucas.apereira20@gmail.com-00bfbf?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
   <img src="https://komarev.com/ghpvc/?username=MrLucasapl&label=Profile%20views&color=00bfbf&style=for-the-badge" alt="Profile views" />
 </p>
 
